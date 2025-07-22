@@ -1,0 +1,5 @@
+telethon
+ctransformers
+aiosqlite
+googlesearch-python
+python-dotenv 
